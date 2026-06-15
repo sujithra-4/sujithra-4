@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sujithra G</h1>
+<div align="center">
 
-<h3 align="center">B.Tech Information Technology Student | Full Stack Developer | AI & Data Analytics Enthusiast</h3>
+# Sujithra G
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Full+Stack+Developer;AI+Enthusiast;Flask+%7C+React+%7C+Python;Building+Impactful+Software+Solutions" />
-</p>
+### Software Developer | Java Developer | AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Development;Java+Programming;Full-Stack+Web+Development;Artificial+Intelligence;MERN+Stack+Development;Spring+Boot;Continuous+Learning" />
+
+</div>
 
 ---
 
@@ -12,18 +14,19 @@
 
 🎓 B.Tech Information Technology Student at **M. Kumarasamy College of Engineering**
 
-💡 Passionate about Software Development, Artificial Intelligence, and Data Analytics
+💻 Passionate about Software Development, Java Programming, and Full Stack Development
 
-🚀 Currently building innovative projects using Flask, React, Python, and SQL
+🚀 Building real-world applications using MERN Stack, Java, Python, and modern web technologies
 
-📚 Continuously learning new technologies and best practices
+🤖 Interested in Artificial Intelligence, Prompt Engineering, and Emerging Technologies
 
-🔍 Interested in:
-- Artificial Intelligence & Machine Learning
-- Data Analytics
-- Full Stack Development
-- Cloud Computing
-- Open Source Development
+🌱 Currently Learning:
+- Spring Boot
+- Advanced Java
+- REST API Development
+- Software Design Principles
+
+🎯 Aspiring Software Engineer focused on building impactful and scalable software solutions
 
 ---
 
@@ -31,27 +34,41 @@
 
 ### Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,php" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,php" />
 </p>
 
-### Frontend Development
+### MERN Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-### Backend Development
+### Frontend Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### Backend Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring" />
 </p>
 
 ### Database & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
+
+### Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- Software Engineering
+- REST APIs
 
 ---
 
@@ -59,105 +76,98 @@
 
 ### 🌿 Ecosentinell – Human-Wildlife Conflict Management System
 
-- Full Stack Web Application
-- Flask + React + Supabase
-- Analytics Dashboard & Visualization
-- Incident Tracking and Risk Assessment
-- Real-time Data Management
-
----
+- Full Stack Application using Flask and React
+- Incident Tracking and Risk Assessment Dashboard
+- Data Visualization and Analytics
+- Supabase Database Integration
+- Designed to support wildlife conflict monitoring
 
 ### 🏥 Personal Health Management System
 
-- Developed using PHP, MySQL, HTML, CSS, JavaScript
-- Secure Health Record Management
-- User-friendly Interface
-- Centralized Medical Data Storage
-
----
+- Developed using PHP, MySQL, HTML, CSS, and JavaScript
+- Centralized Healthcare Record Management
+- Secure Patient Information Storage
+- User-Friendly Healthcare Dashboard
 
 ### 📊 Faculty Appraisal System
 
-- Faculty Performance Evaluation Platform
-- Data-driven Analytics using Python
-- Integrated AHP, TOPSIS, and Random Forest Algorithms
-- Automated Reporting and Insights
-
----
+- Automated Faculty Performance Evaluation System
+- Integrated AHP, TOPSIS, and Random Forest Analytics
+- Built using PHP, MySQL, and Python
+- Data-Driven Decision Support Framework
 
 ### ⏰ Digital Clock Application
 
 - Java Swing Desktop Application
-- Real-time Clock Interface
-- Interactive GUI Design
+- Real-Time Date and Time Display
+- Interactive Graphical User Interface
+
+---
+
+## 📜 Certifications
+
+🏆 Oracle AI Foundations Associate
+
+🏆 NPTEL – Introduction to Internet of Things
+
+🏆 NPTEL – Introduction to Industry 4.0 and Industrial IoT
+
+🏆 Smart India Hackathon Participant
 
 ---
 
 ## 📚 Research Publication
 
-📄 Presented a Research Paper at:
+📄 Presented a Research Paper at the
 
 **5th International Conference on Evolutionary Computing and Mobile Sustainable Networks (ICECMSN 2025)**
 
 **Title:**
+
 *A Data-Driven Faculty Appraisal Framework Integrating AHP, TOPSIS, and Random Forest Algorithms*
 
 ---
 
+## 📈 GitHub Statistics
 
+<div align="center">
 
-## 📈 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💭 Quote
+## 💭 Developer Mindset
 
-> "Learning never exhausts the mind. Every project is an opportunity to grow, innovate, and create impact."
+> "Great software is built through continuous learning, persistence, and a passion for solving real-world problems."
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!
-</p>
+### ⭐ Thanks for Visiting My Profile
+
+**Always Learning • Always Building • Always Improving**
+
+</div>
