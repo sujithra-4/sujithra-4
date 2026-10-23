@@ -20,12 +20,6 @@
 
 🤖 Interested in Artificial Intelligence, Prompt Engineering, and Emerging Technologies
 
-🌱 Currently Learning:
-- Spring Boot
-- Advanced Java
-- REST API Development
-- Software Design Principles
-
 🎯 Aspiring Software Engineer focused on building impactful and scalable software solutions
 
 ---
